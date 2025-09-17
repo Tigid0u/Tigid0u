@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+💻 I am a CS student. 
+
+🆕 Don't blame me if I make mistakes, GitHub is pretty new for me.
+
 <!--
 **Tigid0u/Tigid0u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
